@@ -12,6 +12,8 @@ leetcode-cpp.pdf
 ## computer network
 HTTP_The+Definitive+Guide.pdf
 HTTP权威指南（真正的完整版，送给爱学习的人）.pdf
+Richard_Stevens-TCP-IP_Illustrated-EN.pdf
+tcp_ip-illustrated-vol-2.pdf
 TCP_IP_第5版.pdf
 计算机网络 5edition.pdf
 ## container
@@ -37,6 +39,8 @@ Game Engine Architecture.pdf
 Hybrid Peer-to-Peer Solution forMMORPGs.pdf
 ## linux
 APUE-3rd.pdf
+Eric S. Raymond-The Art of UNIX Programming-Addison-Wesley Professional (2003).epub
+Eric S. Raymond-The Art of UNIX Programming-Addison-Wesley Professional (2003).mobi
 UNIX网络编程 卷1.pdf
 《鸟哥的Linux私房菜-基础篇》第四版.pdf
 鸟哥的Linux私房菜-服务器架设篇(第三版)高清晰.pdf
@@ -63,9 +67,12 @@ Programming in Lua, Third Edition by Roberto Ierusalimschy, Lua.org; 3 edition (
 Programming Language Pragmatics 3rd.pdf
 Programming+Language+Pragmatics+4th.pdf
 Programming.in.Lua.4th.Edition.2016.8.mobi
-Programming.in.Lua.4th.Edition.2016.8.pdf
+Programming.in.Lua.4th.Edition.pdf
 readinglua.pdf
 Seven Languages in Seven Weeks.pdf
+Stephen Prata-C Primer Plus, 6th Edition-Addison-Wesley (2013).pdf
+Stephen Prata-C++ Primer Plus-Addison Wesley (2011).pdf
+The development of Chez Scheme.pdf
 The_essence_of_functional_programming_(1992).pdf
 Threading in C#.pdf
 ## server
@@ -75,6 +82,8 @@ Threading in C#.pdf
 ## shell
 LINUX SHELL脚本攻略(中文版带书签).pdf
 ## software engineering
+(Robert C. Martin Series) Martin, R.C.-Clean Architecture_ A Craftsman's Guide to Software Structure and Design-Pearson Education (2017).epub
+(Robert C. Martin Series) Martin, R.C.-Clean Architecture_ A Craftsman's Guide to Software Structure and Design-Pearson Education (2017).mobi
 Clean Code.pdf
 Debug It! Find, Repair, and Prevent Bugs in Your Code.pdf
 DesignPatterns.pdf
