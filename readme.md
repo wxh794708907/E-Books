@@ -75,6 +75,8 @@ Stephen Prata-C++ Primer Plus-Addison Wesley (2011).pdf
 The development of Chez Scheme.pdf
 The_essence_of_functional_programming_(1992).pdf
 Threading in C#.pdf
+两周自制脚本语言高清完整版.pdf
+自制编译器 ,青木峰郎著 ,P445.pdf
 ## server
 大型多人在线游戏开发_20.pdf
 大型网站技术架构+核心原理与案例分析+李智慧.pdf
