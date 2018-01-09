@@ -28,6 +28,8 @@ Redis设计与实现.mobi
 Spanner Googles Globally Distributed Database.pdf
 ## distributed system
 Distributed Systems Concepts and Design 5ed.pdf
+Martin Kleppmann-Designing Data-Intensive Applications_ The Big Ideas Behind Reliable, Scalable, and Maintainable Systems-O’Reilly Media (2017).epub
+Martin Kleppmann-Designing Data-Intensive Applications_ The Big Ideas Behind Reliable, Scalable, and Maintainable Systems-O’Reilly Media (2017).pdf
 paxos-simple.pdf
 Perspectives on the CAP TheoremBrewer2.pdf
 replication2.pdf
@@ -75,6 +77,7 @@ Stephen Prata-C++ Primer Plus-Addison Wesley (2011).pdf
 The development of Chez Scheme.pdf
 The_essence_of_functional_programming_(1992).pdf
 Threading in C#.pdf
+Turing Machines And Languages With Only Two Formation Rules.pdf
 两周自制脚本语言高清完整版.pdf
 自制编译器 ,青木峰郎著 ,P445.pdf
 ## server
