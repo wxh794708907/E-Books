@@ -56,7 +56,6 @@ just for fun.pdf
 linux-0.12-code.tar
 Linux内核完全剖析基于0.12内核.pdf
 Minix源代码.pdf
-ORANGE’S：一个操作系统的实现.pdf
 UNIX网络编程 卷1.pdf
 《鸟哥的Linux私房菜-基础篇》第四版.pdf
 鸟哥的Linux私房菜-服务器架设篇(第三版)高清晰.pdf

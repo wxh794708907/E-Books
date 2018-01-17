@@ -13,7 +13,7 @@ for dir in os.listdir(rootdir):
         file_tree_str += dir + "\r\n"
         for file in os.listdir(dir):
             if file in all_book:
-                print("Duplicate book. Book Name: " + file)
+                print("Duplicate book. Book Name: " + dir + "/" + file)
                 sys.exit(1)
 
             if os.path.isfile(os.path.join(rootdir,dir,file)):
