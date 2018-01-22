@@ -16,12 +16,15 @@ for dir in os.listdir(rootdir):
                 print("Duplicate book. Book Name: " + dir + "/" + file)
                 sys.exit(1)
 
-            if os.path.isfile(os.path.join(rootdir,dir,file)):
+            if os.path.isfile(os.path.join(rootdir, dir, file)):
                 readme_str += file + "\r\n"
                 file_tree_str += "    " + file + "\r\n"
                 all_book.append(file)
 
 print(file_tree_str)
+print("Total books: " + str(len(all_book)))
+
 
 readme_file = open(r"readme.md", "w")
 readme_file.write(readme_str)
+readme_file.close()
