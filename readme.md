@@ -61,6 +61,7 @@ UNIX网络编程 卷1.pdf
 鸟哥的Linux私房菜-服务器架设篇(第三版)高清晰.pdf
 ## others
 An_Introduction_to_GCC_中文.pdf
+build you own memory manager.pdf
 cpumemory.pdf
 Debugging With Gdb - The Gnu Source-Level Debugger.pdf
 Debugging With GDB中文版.pdf
@@ -91,6 +92,8 @@ C++对象模型 PDF中文清晰版.pdf
 C和指针.pdf
 C程序设计语言(第2版_新版).pdf
 C语言接口与实现--创建可重用软件的技术.pdf
+Effective CPP.pdf
+Effective Modern CPP.pdf
 Fluent_Scheme简明中文手册-带书签.pdf
 Go语言编程.pdf
 How To Design Programs.pdf
@@ -103,6 +106,7 @@ Lua 5.pdf
 Lua中文教程.pdf
 Masterminds of Programming.pdf
 Monads for functional programming.pdf
+More Effective CPP.pdf
 Object-Oriented Programming With ANSI-C.pdf
 Programming in Lua third edition.pdf
 Programming in Lua, Third Edition by Roberto Ierusalimschy, Lua.org; 3 edition (January 3, 2013).epub
@@ -119,6 +123,8 @@ Seven Languages in Seven Weeks.pdf
 Simply.Scheme.pdf
 Stephen Prata-C Primer Plus, 6th Edition-Addison-Wesley (2013).pdf
 Stephen Prata-C++ Primer Plus-Addison Wesley (2011).pdf
+The C Programming Language 2E.pdf
+The Design And Evolution Of Cpp.pdf
 The development of Chez Scheme.pdf
 The Evolution of Lua.pdf
 The Seasoned Schemer.pdf
@@ -146,6 +152,7 @@ shell 脚本各种括号的用途.docx
 (Robert C. Martin Series) Martin, R.C.-Clean Architecture_ A Craftsman's Guide to Software Structure and Design-Pearson Education (2017).mobi
 Architectural Styles and the Design of Network-based Software Architectures.pdf
 Clean Code.pdf
+Code.Complete.2nd.Steve.McConnell.pdf
 Debug It! Find, Repair, and Prevent Bugs in Your Code.pdf
 design-patterns in dynamic programming.ppt
 DesignPatterns.pdf
